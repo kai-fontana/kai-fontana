@@ -1,4 +1,4 @@
- ✨ Oii 👋, meu nome é Kai! ✨
+ ✨⭐ Oii 👋, meu nome é Kai! ⭐✨
 
 <!--
 **kai-fontana/kai-fontana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
